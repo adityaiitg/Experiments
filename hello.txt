@@ -13,3 +13,6 @@ The word map comes from the medieval Latin Mappa mundi, wherein mappa meant napk
 
 Tf2.3 error
 ValueError: Failed to parse the model: pybind11::init(): factory function returned nullptr.
+
+
+RuntimeError: Quantization to 16x8-bit not yet supported for op: 'UNIDIRECTIONAL_SEQUENCE_LSTM'.
